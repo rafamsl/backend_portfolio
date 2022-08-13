@@ -27,8 +27,6 @@ You must have created an ```Aggregate device ``` microphone
    ```
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
